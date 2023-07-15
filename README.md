@@ -17,7 +17,7 @@ A Recurrent Neural Network (RNN) is a type of artificial neural network designed
 
 Long Short-Term Memory (LSTM) is a type of RNN that includes a "memory cell" that can maintain information in memory for long periods of time. As you can see below, a set of gates is used to control when information enters memory, when it's output, and when it's forgotten. This architecture allows LSTM to learn longer sequences and outperform traditional RNNs in tasks such as language modeling and sequence generation. 
 
-(https://github.com/DimensionDweller/recipe_generator_LSTM/assets/75709283/80c57dcb-4069-49dc-bf7b-dc763f30e4c4)
+![image](https://github.com/DimensionDweller/recipe_generator_LSTM/assets/75709283/80c57dcb-4069-49dc-bf7b-dc763f30e4c4)
 
 
 This project uses an LSTM RNN to generate novel recipes. By training the LSTM on a large corpus of existing recipes, the model learns the pattern and structure of recipes, and it can then generate new recipes that have never been seen before.
