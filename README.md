@@ -2,6 +2,8 @@
 
 This project presents a Long Short-Term Memory Recurrent Neural Network (LSTM RNN) trained on a large recipe dataset. The model can generate novel, creative recipes, demonstrating the power of RNNs for sequence generation tasks. 
 
+[You can try it out here](https://huggingface.co/spaces/DimensionDweller/RecipeGenerator)
+
 ## Table of Contents
 
 - [Background](#background)
